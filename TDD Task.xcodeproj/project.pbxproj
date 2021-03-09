@@ -13,6 +13,7 @@
 		EAA293D625F12D7C006336D9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAA293D525F12D7C006336D9 /* Preview Assets.xcassets */; };
 		EAA293E125F12D7D006336D9 /* TDD_TaskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAA293E025F12D7D006336D9 /* TDD_TaskTests.swift */; };
 		EAA293EC25F12D7D006336D9 /* TDD_TaskUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAA293EB25F12D7D006336D9 /* TDD_TaskUITests.swift */; };
+		EAB93F6525F685F700C20459 /* SSArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAB93F6425F685F600C20459 /* SSArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		EAA293E725F12D7D006336D9 /* TDD TaskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TDD TaskUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAA293EB25F12D7D006336D9 /* TDD_TaskUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TDD_TaskUITests.swift; sourceTree = "<group>"; };
 		EAA293ED25F12D7D006336D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EAB93F6425F685F600C20459 /* SSArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SSArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				EAA293CE25F12D72006336D9 /* TDD_TaskApp.swift */,
 				EAA293D025F12D72006336D9 /* ContentView.swift */,
+				EAB93F6425F685F600C20459 /* SSArray.swift */,
 				EAA293D225F12D7C006336D9 /* Assets.xcassets */,
 				EAA293D725F12D7C006336D9 /* Info.plist */,
 				EAA293D425F12D7C006336D9 /* Preview Content */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EAA293D125F12D72006336D9 /* ContentView.swift in Sources */,
+				EAB93F6525F685F700C20459 /* SSArray.swift in Sources */,
 				EAA293CF25F12D72006336D9 /* TDD_TaskApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
